@@ -1,0 +1,13 @@
+["protostar.config"]
+protostar_version = "0.3.2"
+
+["protostar.project"]
+libs_path = "lib"
+
+["protostar.shared_command_configs"]
+cairo_path = ["./proxy/contracts", "./auction/contracts"]
+
+["protostar.contracts"]
+main = [
+    "src/main.cairo",
+]
