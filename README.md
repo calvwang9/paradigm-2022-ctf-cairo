@@ -14,6 +14,8 @@ curl -L https://raw.githubusercontent.com/software-mansion/protostar/master/inst
 
 ## How to use
 
+If you don't have a `/lib` folder, create an empty folder named `lib` in the root dir.
+
 Write your solutions in `test_solution.cairo` in each respective challenge.
 
 Run your solution using `protostar test`, e.g.
